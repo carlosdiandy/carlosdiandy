@@ -40,7 +40,7 @@ Keycloak, Kafka, Activiti
 - 🏠 HLM, Dakar, Sénégal
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring-boot,angular,next,jhipster,flask,javascript,docker,git,jenkins,sonar,keycloak,kafka, activiti)](https://skillicons.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
